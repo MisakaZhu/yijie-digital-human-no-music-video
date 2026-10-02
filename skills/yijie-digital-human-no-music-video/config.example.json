@@ -1,0 +1,16 @@
+{
+  "workbench_url": null,
+  "download_dir": "./output",
+  "runs_dir": "./.yijie-runs",
+  "recent_sources_file": "./抖音已生成来源_近7天.md",
+  "allowed_voice_models": [],
+  "avatar_names": [],
+  "persona": null,
+  "required_topic": null,
+  "topic_count": 5,
+  "audio_speed": 1.1,
+  "audio_pitch": 1.0,
+  "audio_volume": 100,
+  "packaging_volume": 10,
+  "background_music": "无音乐"
+}

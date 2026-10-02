@@ -1,0 +1,4 @@
+interface:
+  display_name: "数字人无音乐视频（公开分发版）"
+  short_description: "在兼容营销工作台从链接或文案制作数字人视频，核验无音乐设置并下载成片"
+  default_prompt: "使用 $yijie-digital-human-no-music-video，按我的后台配置和提供的链接或文案制作无音乐视频。"

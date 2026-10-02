@@ -1,0 +1,38 @@
+# Local account configuration and credentials
+.yijie-config.json
+**/config.local.json
+.env
+.env.*
+*.pem
+*.key
+*cookie*
+*credential*
+*token.json
+
+# Runs, private assets and downloaded media
+.yijie-runs/
+output/
+抖音已生成来源_近7天.md
+*checkpoint*.json
+*.mp4
+*.mp3
+*.wav
+*.part
+*.crdownload
+*.png
+*.jpg
+*.jpeg
+
+# Local backups and caches
+*.bak
+*.bak-*
+*-backup-*/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.DS_Store
+Thumbs.db
+dist/
+*.zip
+*.log
